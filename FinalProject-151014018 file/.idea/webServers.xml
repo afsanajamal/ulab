@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c57c7b7a-34fb-460d-af5e-ccee007d67e1" name="ftp.pelegit.co.il" url="http://ftp.pelegit.co.il">
+        <fileTransfer host="ftp.pelegit.co.il" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
